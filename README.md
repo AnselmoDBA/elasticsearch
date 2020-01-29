@@ -8,7 +8,7 @@ git clone https://github.com/AnselmoDBA/elasticsearch.git
 ```
 ## Descompactando o arquivo de dados.
 ```
-cd elasticsearch/
+cd ~/elasticsearch/
 tar zfxv cars.tar.gz
 ```
 
