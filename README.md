@@ -1,7 +1,9 @@
 # Lab 2 - Ingestão de dadaos via Logstash e Criação de dashboard no Kibana:
 
 ## Baixando o conteúdo desse repositório:
+
 ```
+cd ~
 git clone https://github.com/AnselmoDBA/elasticsearch.git
 ```
 ## Descompactando o arquivo de dados.
