@@ -15,6 +15,7 @@ tar zfxv cars.tar.gz
 ## Instalação do Logstash:
 Baixando o Logstash e descompactando:
 ```
+cd ..
 wget https://artifacts.elastic.co/downloads/logstash/logstash-7.5.2.tar.gz
 tar zfxv logstash-7.5.2.tar.gz
 mv logstash-7.5.2 logstash
