@@ -23,7 +23,7 @@ mv logstash-7.5.2 logstash
 ## Editando arquivo de configuração:
 Agora vamos editar o arquivo de configuração para ingestão do logstash alterando o host onde serão inseridos os dados. Editar também o caminho onde está disposto o cars.csv
 ```
-vim elasticsearch/logstash-cars.config
+vim ~/elasticsearch/logstash-cars.config
 ```
 Editar os seguintes campos:
 * path - 
